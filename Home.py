@@ -120,7 +120,7 @@ def map_restaurants(df):
 #-----------------------------------------------------------------------------------------------------------------------------#
 
 ################### importando o dataset
-df = pd.read_csv("../dataset/zomato.csv")
+df = pd.read_csv("dataset/zomato.csv")
 
 ################### limpando o dataset e aplicando as funcoes criadas para preparar o dataset para analise
 df1 = clean_code(df)
