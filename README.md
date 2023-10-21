@@ -1,7 +1,8 @@
 # Projeto Zomato Restaurants
 
 ## 1. Problema de negócio:
- A empresa Zomato é uma marketplace de restaurantes, tal qual seu core business é conectar os restaurantes a seus clientes. Anunciado como um serviço de entrega de comida, jantar e descoberta de restaurantes, a marca foi fundada na Índia e está hoje presente em vários países, operando desde 2014. Os restaurantes fazem o cadastro dentro da plataforma da Zomato, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações. \
+ A empresa Zomato é uma marketplace de restaurantes, tal qual seu core business é conectar os restaurantes a seus clientes. Anunciado como um serviço de entrega de comida, jantar e descoberta de restaurantes, a marca foi fundada na Índia e está hoje presente em vários países, operando desde 2014. Os restaurantes fazem o cadastro dentro da plataforma da Zomato, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações.
+ 
 O projeto foi desenvolvido para ajudar o suposto CEO a identificar pontos chaves na empresa, fazendo uma análise dos dados e gerando um dashboard, utilizando o framework streamlit, para responder diversas perguntas.
 
 ## 2. Premissas assumidas para a análise:
@@ -44,7 +45,8 @@ Na página inicial do dashboard foram disponibilizadas as principais informaçõ
 Dashboard hospedado em um ambiente Cloud, disponível para acesso através de qualquer dispositivo que esteja conectado à Internet. O dashboard pode ser acessado através do seguinte link: https://zomatorestaurantsproject-thaylla.streamlit.app/
 
 ## 6. Conclusão
-Esse projeto teve por objetivo criar um dashboard contendo gráficos e/ou tabelas de forma a exibir os dados e métricas da melhor forma possível para que os stakeholders pudessem analisá-los. Sendo assim, foi entregue a primeira versão como resultado do ciclo de aprendizagem de análise de dados com Python.\
+Esse projeto teve por objetivo criar um dashboard contendo gráficos e/ou tabelas de forma a exibir os dados e métricas da melhor forma possível para que os stakeholders pudessem analisá-los. Sendo assim, foi entregue a primeira versão como resultado do ciclo de aprendizagem de análise de dados com Python.
+
 Com base nas análises e no dashboard, observou-se que o app da Zomato ainda tem sua utilização muito concentrada no país de origem: Índia, porém há restaurantes de diversos países cadastrados na plataforma e há países/cidades que possuem um potencial e podem ser mais explorados através de análise de dados, possibilitando a Zomato expandir o seu negócio a nível mundial.
 
 ## 7. Próximo passos
